@@ -6,5 +6,15 @@ Week 2 Q&A
   Create path to gdrive, e.g. (pathlib lib):
     dataset = path('/content/gdrive/MyDrive/')
     model = neuralnet(dataset)
+  Write Medium article:
+    avatar
+    write a story
+    > 500 words
+    write story
+    pictures-unsplash.com
+    add to publication (unpackAI)
+    submit
+    submit
+  
     
     
