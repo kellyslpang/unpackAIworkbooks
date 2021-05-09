@@ -1,0 +1,10 @@
+Week 2 Q&A
+  Upload file to github (kellyslpang@icloud.com):
+    Create new repository
+    create readme
+    save a copy in github from Colab
+  Create path to gdrive, e.g. (pathlib lib):
+    dataset = path('/content/gdrive/MyDrive/')
+    model = neuralnet(dataset)
+    
+    
